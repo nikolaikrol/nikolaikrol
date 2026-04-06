@@ -12,5 +12,19 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 		    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 		  </a>
 		  <br>
-		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">your.email@example.com</a>
+		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">chase2009macdon@gmail.com</a>
 </p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true">
+		       <img height=150 src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"/>
+		   </a>
+		   <a href="https://github.com/nikolaikrol/github-readme-stats">
+		       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikrol&layout=compact"/>
+		   </a>
+		</p>
+compact"/> </a>
+
+## Technology Stack
+* Python
+* Github
+  
