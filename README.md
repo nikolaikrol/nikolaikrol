@@ -14,6 +14,16 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 		  <br>
 		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">chase2009macdon@gmail.com</a>
 </p> 
+
+<p align="center">
+		  <a href="(https://github.com/nikolaikrol)">
+		    <img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+		  </a>
+		  <br>
+		  
+</p> 
+
+
 <p align="center">
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true&theme=radical" />
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikolaikrol&layout=compact&theme=radical" />
