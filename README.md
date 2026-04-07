@@ -3,7 +3,6 @@ My name is Chase MacDonald
 I'm a high school student learning Computer Programming
 I'm currently learning Python
 I'm interested in going further into Computer Programming and learning more.
-How to reach me: chase2009macdon@gmail.com	
 
 Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently learning computer programming and getting better at it.
 
