@@ -21,7 +21,7 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 		  </a>		  
 </p> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaikrol)](https://github.com/nikolaikrol/github-readme-stats)
+[![Nikolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaikrol)](https://github.com/nikolaikrol/github-readme-stats)
 
 
 
