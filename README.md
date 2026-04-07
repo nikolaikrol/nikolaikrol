@@ -11,14 +11,14 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 		  <a href="https://www.linkedin.com/in/chasemacdonald21/">
 		    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 		  </a>
-		  <br>
-		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">chase2009macdon@gmail.com</a>
+		  
 </p> 
-
 <p align="center">
 		  <a href="https://github.com/nikolaikrol">
 		    <img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 		  </a>		  
+	<br>
+		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">chase2009macdon@gmail.com</a>
 </p> 
 
 ![Stats](https://raw.githubusercontent.com/nikolaikrol/nikolaikrolstats/refs/heads/master/generated/overview.svg)
