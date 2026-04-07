@@ -18,13 +18,13 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 
    <a href="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"> 
 
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"/> 
+   <img height=150 src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"/> 
 
    </a> 
 
    <a href="https://github.com/nikolaikrol/github-readme-stats"> 
 
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?nikolaikrol=yourusername&layout=compact"/> 
+   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?nikolaikrol=yourusername&layout=compact"/> 
 
    </a> 
 
