@@ -18,16 +18,19 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 <p align="center">
 		  <a href="https://github.com/nikolaikrol">
 		    <img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-		  </a>
-		  
-		  
+		  </a>		  
 </p> 
 
+<p align='center'> 
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikolaikrol&layout=compact&theme=radical" />
-</p>
+   <a href="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"> 
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"/> 
+   </a> 
+   <a href="https://github.com/nikolaikrol/github-readme-stats"> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikrol&layout=compact"/> 
+   </a> 
+</p> 
+
 
 
 
