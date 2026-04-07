@@ -13,16 +13,12 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 		  </a>
 		  <br>
 		  📫 How to reach me: <a href="mailto:chase2009macdon@gmail.com">chase2009macdon@gmail.com</a>
-</p>
-<p align='center'> 
-
-   <a href="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"> 
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true"/> 
-   </a> 
-   <a href="https://github.com/nikolaikrol/github-readme-stats"> 
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?nikolaikrol=yourusername&layout=compact"/> 
-   </a> 
 </p> 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nikolaikrol&show_icons=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikrol&layout=compact" />
+</p>
+
 
 
 ## Technology Stack
