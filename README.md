@@ -25,4 +25,6 @@ Hi, I'm Chase, a high school student who is a beginner to Python. I'm currently 
 ## Technology Stack
 * Python
 * Github
-  
+* Organized
+* Quick Learner
+* Easily Adaptable
